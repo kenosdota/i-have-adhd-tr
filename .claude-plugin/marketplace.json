@@ -1,0 +1,16 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "i-have-adhd-tr",
+  "description": "Cevabı ADHD olan bir okura göre biçimlendiren Türkçe skill.",
+  "owner": {
+    "name": "Kenan Efe Genç"
+  },
+  "plugins": [
+    {
+      "name": "i-have-adhd-tr",
+      "description": "Önce yapılacak iş, numaralı adımlar, konu dışına çıkmadan: ADHD'ye uygun Türkçe cevaplar.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "i-have-adhd-tr",
+  "version": "1.0.0",
+  "description": "Cevabı ADHD olan bir okura göre biçimlendirir: önce yapılacak iş, numaralı adımlar, konu dışına çıkmadan, görünür ilerleme. ayghri/i-have-adhd'nin Türkçe uyarlaması.",
+  "author": {
+    "name": "Kenan Efe Genç",
+    "url": "https://github.com/kenosdota"
+  },
+  "license": "MIT"
+}
